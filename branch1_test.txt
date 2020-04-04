@@ -1,1 +1,1 @@
-edycja plika na branch conflikt
+scalenie plikow branchu conflict i conflict2
